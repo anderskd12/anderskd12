@@ -53,6 +53,6 @@ Welcome to my GitHub! I'm a seasoned **Data Engineer** with over 15 years of exp
 
 ---
 
-> "Great data engineering isn't just about moving data — it's about making it meaningful."
+> "Great data engineering isn't just about moving data — it's about making it meaningful. "
 
 Thanks for stopping by! ⭐️
