@@ -5,7 +5,7 @@ Welcome to my GitHub! I'm a seasoned **Data Engineer** with over 15 years of exp
 ---
 
 ## 🧰 Tech & Tools I Love
-- **Languages**: SQL (T-SQL, Postgres), Python (Pandas, PySpark), VBA  
+- **Languages**: SQL (T-SQL, Postgres), Python (Pandas, PySpark), VBA
 - **Platforms**: Snowflake ❄️, SSIS, SSRS, ADF, AWS, Azure, Airflow, DBT  
 - **BI Tools**: Tableau, Power BI, Excel (power user level), gSheets 
 - **Data Engineering**: ETL/ELT pipelines, data modeling, orchestration  
